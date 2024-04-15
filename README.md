@@ -1,5 +1,5 @@
 # Onehub Swift Library
-```
+```swift
 import Foundation
 
 let jsonData = [
